@@ -1,11 +1,10 @@
-flask
-flask-cors
+streamlit
 pandas
 numpy
 joblib
 scikit-learn
 xgboost
-gunicorn
 requests
 gdown
-Werkzeug
+shap
+Pillow
