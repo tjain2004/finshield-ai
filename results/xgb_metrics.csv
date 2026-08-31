@@ -1,0 +1,2 @@
+auc_roc,auc_pr,f1_default,f1_best,best_threshold,precision,recall,true_positives,false_positives,false_negatives,true_negatives,total_features
+0.9732,0.2368,0.084,0.2777,0.9045,0.5,0.1923,620,13101,415,1001532,30

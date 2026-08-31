@@ -1,0 +1,31 @@
+feature,mean_shap
+fmt_ACH,1.9186059
+Hour,0.836803
+txn_count_per_sender_hour,0.8015601
+Day,0.48287487
+txn_count_per_sender_day,0.47859424
+Amount_Received_Log,0.2805501
+fmt_Cheque,0.25794393
+DayOfWeek,0.252117
+fmt_Credit Card,0.20314838
+Receiver Bank ID,0.20265625
+Sender Bank ID,0.19613726
+is_cross_bank,0.16134448
+amount_vs_account_median,0.14207645
+Amount_Paid_Log,0.13674876
+Payment_Currency_Encoded,0.10156873
+is_amount_outlier_iqr,0.076591395
+fmt_Cash,0.07234759
+Receiving_Currency_Encoded,0.060719606
+is_high_velocity,0.05080438
+is_self_transfer,0.04302603
+fmt_Bitcoin,0.039769113
+IsWeekend,0.030841267
+is_account_level_outlier,0.024019845
+outlier_score,0.022358237
+is_outlier,0.020808702
+fmt_Wire,0.009600053
+Amount_Diff_Log,0.009242131
+is_currency_mismatch,0.0057957196
+fmt_Reinvestment,0.0007671238
+is_amount_outlier_zscore,6.636538e-05

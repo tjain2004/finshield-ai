@@ -1,0 +1,2 @@
+model,auc_roc,auc_pr,f1,precision,recall,mcc,best_threshold,best_epoch,sequence_len,kernel_sizes,fraud_caught,fraud_missed,false_alarms
+CNN-1D MultiScale,0.5172,0.0018,0.0109,0.0833,0.0058,0.0218,0.5703,1,15,"3,5,7",1,170,11
