@@ -85,7 +85,7 @@ read your repositories. No credit card is asked for.
    | **Language** | Python 3 |
    | **Branch** | `main` |
    | **Build Command** | `pip install -r requirements.txt` |
-   | **Start Command** | `gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 180 --preload` |
+   | **Start Command** | `gunicorn new:app --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 180 --preload` |
    | **Root Directory** | *(leave blank — this folder IS the repo root)* |
    | **Instance Type** | **Free** |
 
